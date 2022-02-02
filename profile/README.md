@@ -28,6 +28,12 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/60147732/152088222-4c251c24-98aa-477f-931e-a2e23b9c5ee6.png" width="400"height="250"/>&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/60147732/152088314-7704bf21-3c9c-47d8-a2a4-45582dd08c34.png" width="400" height="250" /></p>
 <br>
+<hr>
+<h3 style="color:blue;" style="text-align:center">5. UI/UX Designing Domain</h3>
+<p >User interface design or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience.</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/60147732/152089106-56e3a7de-ef17-4539-b975-e9179a85a85d.png"width="350"height="250"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/60147732/152089221-eee51651-a31e-4de3-a24c-2192b506fd7d.png" width="350" height="250" /></p>
+<br>
 
 
 ## Connect with Us!
