@@ -9,8 +9,8 @@
 ## Fields We Work In
 <h3 style="color:blue;" style="text-align:center">1. Web Development</h3>
 <p >In this domain, we concentrate on developing and maintaining websites to solve real time problems. For any website, it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.</p>
-<p align="center"><img src="https://github.com/anuj0501/DoNotEngage/blob/master/Client/src/assets/images/webDevelopment.svg" width="200" align='left'/>
-<img src="https://www.spinutech.com/webres/Image/web-design-development/articles/Web%20Dev-Blog.png" width="400" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/60147732/152080656-7b8b776e-a134-4ac9-bf80-094f9aa23e25.png" width="400" height="200"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/60147732/152080775-1c069915-9e32-4aa4-84db-128ed5ff1d9a.png" width="400" height="200" /></p>
 <hr>
 <h3 style="color:blue;" style="text-align:center">2. App Development</h3>
 <p >Mobile app development has been steadily growing, in revenues and jobs created. In this domain and all others, we encourage all to keep practising and be their best selves..</p>
