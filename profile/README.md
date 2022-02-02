@@ -14,18 +14,19 @@
 <hr>
 <h3 style="color:blue;" style="text-align:center">2. App Development</h3>
 <p >Mobile app development has been steadily growing, in revenues and jobs created. In this domain and all others, we encourage all to keep practising and be their best selves..</p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxoKAszzqSXoytBiGrCpdXUgi939Crm7u1w&usqp=CAU" width="300" align='left'/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF43uBRTCCYchDe8kfzI-1uqge-QP9_J_6jQ&usqp=CAU" width="350" />
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxoKAszzqSXoytBiGrCpdXUgi939Crm7u1w&usqp=CAU" width="300" />&nbsp;&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF43uBRTCCYchDe8kfzI-1uqge-QP9_J_6jQ&usqp=CAU" width="350" /></p>
 <hr>
 <h3 style="color:blue;" style="text-align:center">3. Machine Learning</h3>
 <p >Machine learning is the burning topic of the market. It is an application of artificial intelligence (AI) that provides systems, the ability to automatically learn and improve from experience without being explicitly programmed..</p>
-<img src="https://github.com/anuj0501/DoNotEngage/blob/master/Client/src/assets/images/Background_1.svg" width="200" align='left'/>
-<img src="https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg" width="400" />
+<p align="center"><img src="https://user-images.githubusercontent.com/60147732/152087918-3dc21502-488e-43d4-820a-988d65d89e8f.png" width="400" height="250"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/60147732/152088159-0a837e8c-7be5-4d02-ac12-3fe2d342c5b6.png" width="400" height="250"/></p>
 <hr>
 <h3 style="color:blue;" style="text-align:center">4. Management</h3>
 <p >For the growth of all and to bring chances for all the domains to excel and also develop teamwork skills, we provide managerial domain to increase the productivity of all our members by being the face of this society and bring forth new projects.</p>
-<img src="https://github.com/anuj0501/DoNotEngage/blob/master/Client/src/assets/images/management.svg" width="200" align='left'/>
-<img src="https://blog.vantagecircle.com/content/images/2021/01/Employee-Management-Meaning-Importance-Tips-Tools---More.png" width="400" />
+<p align="center"><img src="https://user-images.githubusercontent.com/60147732/152088222-4c251c24-98aa-477f-931e-a2e23b9c5ee6.png" width="400"height="250"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/60147732/152088314-7704bf21-3c9c-47d8-a2a4-45582dd08c34.png" width="400" height="250" /></p>
 <br>
 
 
