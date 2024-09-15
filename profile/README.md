@@ -1,6 +1,6 @@
 <!-- ![image](https://user-images.githubusercontent.com/57393186/151705735-4fc35ab7-feeb-437f-8999-f6597205758c.png) -->
 
-# Welcome to Google Developer Group on campus AKGEC
+# Welcome to Google Developer Groups on campus AKGEC
 
 <h3>We at GDG on campus AKGEC are a passionate group of people who work towards bringing a change in the ecosystem of development around the campus. We want to create a healthy environment for the budding developers to exploring solutions to real life problems and promote the developer culture.</h3>
 
