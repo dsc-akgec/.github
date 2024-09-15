@@ -1,8 +1,8 @@
 <!-- ![image](https://user-images.githubusercontent.com/57393186/151705735-4fc35ab7-feeb-437f-8999-f6597205758c.png) -->
 
-# Welcome to Developer Student Clubs-AKGEC
+# Welcome to Google Developer Group on campus AKGEC
 
-<h3>We at DSC-AKGEC are a passionate group of people who work towards bringing a change in the ecosystem of development around the campus. We want to create a healthy environment for the budding developers to exploring solutions to real life problems and promote the developer culture.</h3>
+<h3>We at GDG on campus AKGEC are a passionate group of people who work towards bringing a change in the ecosystem of development around the campus. We want to create a healthy environment for the budding developers to exploring solutions to real life problems and promote the developer culture.</h3>
 
 <img src="https://github.com/anuj0501/DoNotEngage/blob/master/Client/src/assets/images/aboutUS.png"/>
 
@@ -41,7 +41,7 @@
 
 <p align="center">
 <br/>
-<a href="https://twitter.com/dsc_akgec">
+<a href="https://twitter.com/gdsc_akgec">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/57393186/151711466-4907acf9-83fa-48fb-9c0a-83845b36b3a1.png"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dsc-akgec/">
